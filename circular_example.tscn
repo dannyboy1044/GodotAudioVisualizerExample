@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dkts8f5dp5wl6"]
+
+[ext_resource type="Script" path="res://circular_example.gd" id="1_86q5y"]
+
+[node name="CircularExample" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_86q5y")
+shuffle_freq = true
