@@ -1,9 +1,8 @@
-[gd_scene load_steps=5 format=3 uid="uid://wt6l7qsp3y24"]
+[gd_scene load_steps=4 format=3 uid="uid://wt6l7qsp3y24"]
 
 [ext_resource type="Script" path="res://playground.gd" id="1_qinjp"]
 [ext_resource type="PackedScene" uid="uid://bq0tfw61wpnlg" path="res://basic_bars_example.tscn" id="1_xtp4g"]
 [ext_resource type="PackedScene" uid="uid://dkts8f5dp5wl6" path="res://circular_example.tscn" id="2_5im2u"]
-[ext_resource type="AudioStream" uid="uid://bglrtfag22bsu" path="res://vid5 intro.mp3" id="3_5jl7l"]
 
 [node name="Playground" type="Node2D"]
 script = ExtResource("1_qinjp")
@@ -16,7 +15,6 @@ visible = false
 audio_player = NodePath("../AudioStreamPlayer")
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("3_5jl7l")
 bus = &"Visualizer"
 
 [node name="Button" type="Button" parent="."]

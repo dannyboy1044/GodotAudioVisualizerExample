@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1741559112
+basic_bars_example.gd::GDScript::-1::1741559081::0::1::::<>Control<>::
+basic_bars_example.tscn::PackedScene::3562215382199166344::1741559081::0::1::::<><>::res://basic_bars_example.gd
+circular_example.gd::GDScript::-1::1741559081::0::1::::<>Control<>::
+circular_example.tscn::PackedScene::7901525810973860141::1741559081::0::1::::<><>::res://circular_example.gd
+default_bus_layout.tres::AudioBusLayout::3459159090266408606::1741559081::0::1::::<><>::
+icon.svg::CompressedTexture2D::8649400173606526879::1741559081::1741559113::1::::<><>::
+playground.gd::GDScript::-1::1741559081::0::1::::<>Node2D<>::
+playground.tscn::PackedScene::1585281314175649571::1741559081::0::1::::<><>::res://playground.gd<>uid://bq0tfw61wpnlg::::res://basic_bars_example.tscn<>uid://dkts8f5dp5wl6::::res://circular_example.tscn<>uid://bglrtfag22bsu::::res://vid5 intro.mp3
